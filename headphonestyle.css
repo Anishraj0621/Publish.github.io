@@ -1,0 +1,229 @@
+.container {
+    position: relative;
+    text-align: center;
+    
+}
+
+.centered {
+        position: absolute;
+        top: 15%;
+        left: 30%;
+        transform: translate(-50%, -50%);
+        
+}
+
+p.big{
+line-height: 1;
+font-size: 300%;
+text-align: left; 
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p.small{
+line-height: 0.0;
+font-size: 100%;
+text-align: left; 
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a.shoppingnow{
+width: 60px; 
+border-radius: 15px; 
+background-color: white; 
+color: black; 
+font-size: small; 
+padding-left: 30px;padding-right: 30px;padding-top: 10px;padding-bottom: 10px;
+}
+
+h2,p.text{
+color: black;
+text-align: left;
+width: 80%;
+margin-left: 20%;
+
+}
+
+h1.text2{
+width: 100%;
+height:auto;
+background-color: #FBC100;
+color: white;
+text-align: center;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+h1.heading1{
+color: black;
+width: 80%;
+height: auto;
+text-align: left;
+margin-left: 20%;
+padding-top: 30px;
+}
+
+
+* {
+box-sizing: border-box;
+}
+
+.row {
+display: flex;
+margin-left: 20%;
+
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+width: 80%;
+flex: 20%;
+padding: 10px;
+/* height: 20%;*/
+} 
+
+.col-container {
+
+display: table;
+margin-left:20%;
+padding-bottom: 40px;
+padding-top: 10px;
+}
+.col {
+display: table-cell;
+}
+
+.col-container2{
+display: table;
+margin-left: 20%;
+padding-bottom: 0px;
+padding-top: 0px;
+}
+
+.col-container3{
+display: table;
+margin-left: 20%;
+padding-bottom: 40px;
+padding-top: 0px;
+}
+
+.col1{
+display: table-cell;
+}
+
+.centered1{
+bottom: 16%;
+right: 17%;
+position: absolute;                
+transform: translate(-50%, -50%);
+
+}
+.text3{
+
+height:auto;
+background-color: #FBC100;
+color: white;
+width: 100%;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+p.small1{
+margin-left: 26%;
+font-size: 75%;
+text-align: left; 
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}  
+
+p.big1{
+line-height: 0;
+font-size: 200%;
+text-align: left;
+margin-left: 26%; 
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a.learnmore{
+width: 60px; 
+border-radius: 15px; 
+background-color: white; 
+color: black; 
+font-size: small; 
+padding-left: 30px;padding-right: 30px;padding-top: 10px;padding-bottom: 10px;
+}
+
+h2.font{
+
+width: 80%;
+color: black;
+font: 600;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 40px;
+padding-bottom: 0px;
+padding-left: 100px;
+
+}
+.centered2{
+bottom: 3%;
+left: 21%;
+position: absolute;                
+transform: translate(-50%, -50%);
+padding-top: 0%;padding-bottom: 0%;padding-left: 0%;
+
+
+}
+h2.font1{
+color: black;
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+}
+.centered3{
+bottom: 3%;
+left: 41%;
+position: absolute;                
+transform: translate(-50%, -50%);
+padding-top: 0%;padding-bottom: 0%;padding-left: 0%;
+
+
+}
+h2.font2{
+color: black;
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+}
+
+.centered4{
+bottom: 3%;
+left: 60%;
+position: absolute;                
+transform: translate(-50%, -50%);
+padding-top: 0%;padding-bottom: 0%;padding-left: 0%;
+
+
+}
+h2.font3{
+color: black;
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+}
+
+.centered5{
+bottom: 3%;
+left: 80%;
+position: absolute;                
+transform: translate(-50%, -50%);
+padding-top: 0%;padding-bottom: 0%;padding-left: 0%;
+
+
+}
+h2.font4{
+color: black;
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+}
